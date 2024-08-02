@@ -1,0 +1,29 @@
+
+""" Sample Inputs:
+
+# Positive Sentiment:
+# "Despite the initial challenges we faced, the team's hard work and dedication led to a highly successful project completion."
+# "The breathtaking scenery during our hike, combined with the perfect weather, made for an unforgettable experience."
+# "Receiving the promotion was a testament to all the late nights and hard work I've put in over the years."
+
+# Negative Sentiment:
+# "Even though we tried our best, the continuous miscommunication and lack of resources ultimately led to the project's failure."
+# "The constant noise from the construction site next door has been incredibly disruptive and frustrating."
+# "Despite multiple attempts to resolve the issue, customer service was unhelpful and left me feeling very dissatisfied."
+
+# Neutral Sentiment:
+# "The quarterly meeting covered various topics, including sales performance, upcoming projects, and team restructuring."
+# "I spent the weekend organizing my home office, rearranging furniture, and decluttering my workspace."
+# "After completing my workout, I decided to catch up on some reading and prepare a healthy meal."
+
+# Mixed Sentiment:
+# "While the presentation had some insightful points, the overall delivery was lacking and didn't fully engage the audience."
+# "The vacation was filled with both wonderful adventures and a few unexpected mishaps, making it a truly memorable trip."
+# "The new software update offers several useful features, but it also introduced some bugs that have been quite bothersome."
+
+# Ambiguous Sentiment:
+# "The company's growth over the past year has been impressive, but it has also led to increased pressure and higher expectations for all employees."
+# "My experience with the new gadget has been a rollercoaster; it's innovative and useful, yet occasionally unreliable and frustrating."
+# "The workshop provided a lot of valuable information, though it was overwhelming at times due to the fast pace and extensive content."
+
+"""
